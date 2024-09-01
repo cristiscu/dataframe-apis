@@ -2,7 +2,7 @@
 pandas
 pandas-profiling
 polars
-dask
+dask[complete]
 
 # in-memory analytics
 pyarrow
