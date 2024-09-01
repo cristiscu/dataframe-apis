@@ -8,15 +8,15 @@ dask
 pyarrow
 duckdb
 
-# external databases
-databricks-connect
-snowflake-snowpark-python[modin]
-bigframes
-
 # DuckDB for Jupyter Notebooks
 jupysql
 ipykernel
 duckdb-engine
+
+# external databases
+databricks-connect
+snowflake-snowpark-python[modin]
+bigframes
 
 # miscellaneous
 streamlit
