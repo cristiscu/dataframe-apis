@@ -1,0 +1,22 @@
+# pandas + related libs
+pandas
+pandas-profiling
+polars
+dask
+
+# in-memory analytics
+pyarrow
+duckdb
+
+# external databases
+databricks-connect
+snowflake-snowpark-python[modin]
+bigframes
+
+# DuckDB for Jupyter Notebooks
+jupysql
+ipykernel
+duckdb-engine
+
+# miscellaneous
+streamlit
