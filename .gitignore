@@ -5,6 +5,8 @@
 *.zip
 
 .etc/
+data/tmp/*.csv
+data/output/*.html
 
 # custom
 build/

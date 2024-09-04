@@ -1,6 +1,6 @@
 # pandas + related libs
 pandas
-pandas-profiling
+ydata-profiling
 polars
 dask[complete]
 
@@ -16,6 +16,7 @@ duckdb-engine
 # external databases
 databricks-connect
 snowflake-snowpark-python[modin]
+modin[all]
 bigframes
 
 # miscellaneous
